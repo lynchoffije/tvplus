@@ -1,199 +1,199 @@
 #EXTM3U 
-#EXTINF: -1 tvg-chno="3" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671858.png" group-title="Hepsi", BluTV Play 1
-http://play1dvr.blutv.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="4" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671859.png" group-title="Hepsi", BluTV Play 2
-http://play2dvr.blutv.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="17" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671872.png" group-title="Hepsi", TRT 1
+#EXTINF: -1 tvg-chno="1" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="Hepsi", BluTV Play 1
+http://d21eod2e3p9ljp.cloudfront.net/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index_1.m3u8
+#EXTINF: -1 tvg-chno="2" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="Hepsi", BluTV Play 2
+http://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8
+#EXTINF: -1 tvg-chno="3" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" group-title="Hepsi", TRT 1
 http://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="18" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671873.png" group-title="Hepsi", KANAL D
+#EXTINF: -1 tvg-chno="4" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" group-title="Hepsi", KANAL D
 http://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF: -1 tvg-chno="19" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671874.png" group-title="Hepsi", STAR TV
+#EXTINF: -1 tvg-chno="5" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" group-title="Hepsi", STAR TV
 http://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF: -1 tvg-chno="20" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671875.png" group-title="Hepsi", ATV
+#EXTINF: -1 tvg-chno="6" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" group-title="Hepsi", ATV
 http://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF: -1 tvg-chno="21" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671876.png" group-title="Hepsi", SHOW TV
+#EXTINF: -1 tvg-chno="7" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" group-title="Hepsi", SHOW TV
 http://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF: -1 tvg-chno="22" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671877.png" group-title="Hepsi", NOW
-http://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_1080p3500000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="23" tvg-logo="https://m3u-editor.com/storage/channel-logos/41f27080-427c-11ee-abc0-8b75c8f6a950/5180517/913188362.png" group-title="Hepsi", MC EU
+#EXTINF: -1 tvg-chno="8" tvg-logo="http://gbzeottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202402/20240212/16/1649392034615eb78424_op_0_XL.png" group-title="Hepsi", NOW
+http://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=yE5jXirvKPaJ7PoE5hLasg&e=1722280573
+#EXTINF: -1 tvg-chno="9" tvg-logo="https://m3u-editor.com/storage/channel-logos/41f27080-427c-11ee-abc0-8b75c8f6a950/5180517/913188362.png" group-title="Hepsi", MC EU
 http://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF: -1 tvg-chno="24" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671879.png" group-title="Hepsi", TV8
+#EXTINF: -1 tvg-chno="10" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20170121/001300/XTV100000413/f89f537c-dbb5-46ce-894c-bcb309811611.png" group-title="Hepsi", TV8
 http://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF: -1 tvg-chno="25" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671880.png" group-title="Hepsi", 360
+#EXTINF: -1 tvg-chno="11" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202007/20200714/202007140149118747y7_op_0_XL.png" group-title="Hepsi", 360
 http://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF: -1 tvg-chno="26" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671881.png" group-title="Hepsi", A2
+#EXTINF: -1 tvg-chno="12" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170714/001300/XTV100000291/f57866cb-de7e-4586-ae71-d44605b6c518.png" group-title="Hepsi", A2
 http://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
-#EXTINF: -1 tvg-chno="27" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671882.png" group-title="Hepsi", TLC
+#EXTINF: -1 tvg-chno="13" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20151105/001300/001300000008478933/3cda2c5f-1cb0-4898-96e5-02f27fc724de.png" group-title="Hepsi", TLC
 http://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF: -1 tvg-chno="28" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671883.png" group-title="Hepsi", SHOW MAX
-http://ciner-live.daioncdn.net/showmax/showmax.m3u8
-#EXTINF: -1 tvg-chno="29" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671884.png" group-title="Hepsi", TEVE2
+#EXTINF: -1 tvg-chno="14" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202406/20240611/76/1018390934275eb78424_op_0_XL.png" group-title="Hepsi", CNBC-E
+#
+#EXTINF: -1 tvg-chno="15" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20161010/001300/001300000008478957/8e013007-0124-40e1-b071-2c4adfa77636.png" group-title="Hepsi", TEVE2
 http://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF: -1 tvg-chno="30" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671885.png" group-title="Hepsi", KANAL 7
+#EXTINF: -1 tvg-chno="16" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008478886/e86bfc54-f774-45c5-ae9d-531af97840a6.png" group-title="Hepsi", KANAL 7
 http://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF: -1 tvg-chno="31" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671886.png" group-title="Hepsi", BEYAZ TV
+#EXTINF: -1 tvg-chno="17" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671886.png" group-title="Hepsi", BEYAZ TV
 http://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF: -1 tvg-chno="32" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671887.png" group-title="Hepsi", TV100
+#EXTINF: -1 tvg-chno="18" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671887.png" group-title="Hepsi", TV100
 http://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF: -1 tvg-chno="33" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671888.png" group-title="Hepsi", FLASH TV
+#EXTINF: -1 tvg-chno="19" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671888.png" group-title="Hepsi", FLASH TV
 http://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF: -1 tvg-chno="34" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671889.png" group-title="Hepsi", DMAX
+#EXTINF: -1 tvg-chno="20" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671889.png" group-title="Hepsi", DMAX
 http://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF: -1 tvg-chno="35" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671890.png" group-title="Hepsi", BİZİM EV TV
+#EXTINF: -1 tvg-chno="21" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671890.png" group-title="Hepsi", BİZİM EV TV
 #
-#EXTINF: -1 tvg-chno="36" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671891.png" group-title="Hepsi", TV8.5
+#EXTINF: -1 tvg-chno="22" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671891.png" group-title="Hepsi", TV8.5
 http://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-#EXTINF: -1 tvg-chno="37" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671893.png" group-title="Hepsi", VAV TV
+#EXTINF: -1 tvg-chno="23" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671893.png" group-title="Hepsi", VAV TV
 http://trkvz-live.ercdn.net/vavtv/vavtv.m3u8
-#EXTINF: -1 tvg-chno="38" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671894.png" group-title="Hepsi", TRT 2 HD
+#EXTINF: -1 tvg-chno="24" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671894.png" group-title="Hepsi", TRT 2 HD
 http://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="39" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671895.png" group-title="Hepsi", TV 4
+#EXTINF: -1 tvg-chno="25" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671895.png" group-title="Hepsi", TV 4
 http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF: -1 tvg-chno="40" tvg-logo="http://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078756979.png" group-title="Hepsi", TURKHABER
+#EXTINF: -1 tvg-chno="26" tvg-logo="http://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078756979.png" group-title="Hepsi", TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF: -1 tvg-chno="41" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671896.png" group-title="Hepsi", CNN TÜRK
+#EXTINF: -1 tvg-chno="27" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671896.png" group-title="Hepsi", CNN TÜRK
 http://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF: -1 tvg-chno="42" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671897.png" group-title="Hepsi", NTV
+#EXTINF: -1 tvg-chno="28" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671897.png" group-title="Hepsi", NTV
 http://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF: -1 tvg-chno="43" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671898.png" group-title="Hepsi", HABERTÜRK
+#EXTINF: -1 tvg-chno="29" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671898.png" group-title="Hepsi", HABERTÜRK
 http://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF: -1 tvg-chno="44" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671899.png" group-title="Hepsi", A HABER
+#EXTINF: -1 tvg-chno="30" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671899.png" group-title="Hepsi", A HABER
 http://trkvz-live.daioncdn.net/ahaberhd/ahaberhd.m3u8
-#EXTINF: -1 tvg-chno="45" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671900.png" group-title="Hepsi", TRT HABER
+#EXTINF: -1 tvg-chno="31" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671900.png" group-title="Hepsi", TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="46" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671901.png" group-title="Hepsi", 24
+#EXTINF: -1 tvg-chno="32" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671901.png" group-title="Hepsi", 24
 http://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF: -1 tvg-chno="47" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671902.png" group-title="Hepsi", BLOOMBERG HT
+#EXTINF: -1 tvg-chno="33" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671902.png" group-title="Hepsi", BLOOMBERG HT
 http://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF: -1 tvg-chno="48" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671903.png" group-title="Hepsi", A PARA
+#EXTINF: -1 tvg-chno="34" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671903.png" group-title="Hepsi", A PARA
 http://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
-#EXTINF: -1 tvg-chno="49" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671904.png" group-title="Hepsi", HALK TV
+#EXTINF: -1 tvg-chno="35" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671904.png" group-title="Hepsi", HALK TV
 http://halktv-live.ercdn.net/halktv/halktv.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/41f27080-427c-11ee-abc0-8b75c8f6a950/5180517/913200388.png" group-title="Hepsi", ARTI TV
+#EXTINF: -1 tvg-chno="36" tvg-logo="https://m3u-editor.com/storage/channel-logos/41f27080-427c-11ee-abc0-8b75c8f6a950/5180517/913200388.png" group-title="Hepsi", ARTI TV
 #
-#EXTINF: -1 tvg-chno="50" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671905.png" group-title="Hepsi", TELE1
+#EXTINF: -1 tvg-chno="37" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671905.png" group-title="Hepsi", TELE1
 http://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="51" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671906.png" group-title="Hepsi", HABER GLOBAL
+#EXTINF: -1 tvg-chno="38" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671906.png" group-title="Hepsi", HABER GLOBAL
 http://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="52" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671907.png" group-title="Hepsi", EKOTÜRK
+#EXTINF: -1 tvg-chno="39" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671907.png" group-title="Hepsi", EKOTÜRK
 http://ekoturkdvr.blutv.com/blutv_ekoturk_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="53" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671908.png" group-title="Hepsi", ÜLKE TV
+#EXTINF: -1 tvg-chno="40" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671908.png" group-title="Hepsi", ÜLKE TV
 #
-#EXTINF: -1 tvg-chno="54" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671909.png" group-title="Hepsi", TGRT HABER
+#EXTINF: -1 tvg-chno="41" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671909.png" group-title="Hepsi", TGRT HABER
 http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="55" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671910.jpg" group-title="Hepsi", TVNET
+#EXTINF: -1 tvg-chno="42" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671910.jpg" group-title="Hepsi", TVNET
 http://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF: -1 tvg-chno="56" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671911.png" group-title="Hepsi", AKİT TV
+#EXTINF: -1 tvg-chno="43" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671911.png" group-title="Hepsi", AKİT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF: -1 tvg-chno="57" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671912.png" group-title="Hepsi", BENGÜTÜRK
+#EXTINF: -1 tvg-chno="44" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671912.png" group-title="Hepsi", BENGÜTÜRK
 http://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF: -1 tvg-chno="58" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671913.png" group-title="Hepsi", ULUSAL KANAL
+#EXTINF: -1 tvg-chno="45" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671913.png" group-title="Hepsi", ULUSAL KANAL
 #
-#EXTINF: -1 tvg-chno="59" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671914.png" group-title="Hepsi", KRT TV
+#EXTINF: -1 tvg-chno="46" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671914.png" group-title="Hepsi", KRT TV
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="60" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671915.png" group-title="Hepsi", SÖZCÜ TV
+#EXTINF: -1 tvg-chno="47" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671915.png" group-title="Hepsi", SÖZCÜ TV
 http://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="61" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671916.png" group-title="Hepsi", TRT SPOR
+#EXTINF: -1 tvg-chno="48" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671916.png" group-title="Hepsi", TRT SPOR
 http://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="62" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671917.png" group-title="Hepsi", TRT SPOR YILDIZ
+#EXTINF: -1 tvg-chno="49" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671917.png" group-title="Hepsi", TRT SPOR YILDIZ
 http://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="63" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671918.png" group-title="Hepsi", A SPOR
+#EXTINF: -1 tvg-chno="50" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671918.png" group-title="Hepsi", A SPOR
 http://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF: -1 tvg-chno="64" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671919.png" group-title="Hepsi", SPORTS TV
+#EXTINF: -1 tvg-chno="51" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671919.png" group-title="Hepsi", SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF: -1 tvg-chno="65" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671920.png" group-title="Hepsi", FB TV
+#EXTINF: -1 tvg-chno="52" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671920.png" group-title="Hepsi", FB TV
 #
-#EXTINF: -1 tvg-chno="69" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671924.png" group-title="Hepsi", EUROSPORT 1
+#EXTINF: -1 tvg-chno="53" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671924.png" group-title="Hepsi", EUROSPORT 1
 http://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="70" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671925.png" group-title="Hepsi", EUROSPORT 2
+#EXTINF: -1 tvg-chno="54" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671925.png" group-title="Hepsi", EUROSPORT 2
 http://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="72" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671927.png" group-title="Hepsi", TJK TV
+#EXTINF: -1 tvg-chno="55" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671927.png" group-title="Hepsi", TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF: -1 tvg-chno="73" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671928.png" group-title="Hepsi", TRT BELGESEL
+#EXTINF: -1 tvg-chno="56" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671928.png" group-title="Hepsi", TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="82" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671937.png" group-title="Hepsi", CARTOON NETWORK
+#EXTINF: -1 tvg-chno="57" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671937.png" group-title="Hepsi", CARTOON NETWORK
 http://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="83" tvg-logo="http://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078739578.png" group-title="Hepsi", CARTOONITO
+#EXTINF: -1 tvg-chno="58" tvg-logo="http://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078739578.png" group-title="Hepsi", CARTOONITO
 http://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="86" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671941.png" group-title="Hepsi", MİNİKA ÇOCUK
+#EXTINF: -1 tvg-chno="59" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671941.png" group-title="Hepsi", MİNİKA ÇOCUK
 http://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF: -1 tvg-chno="87" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671942.png" group-title="Hepsi", MİNİKA GO
+#EXTINF: -1 tvg-chno="60" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671942.png" group-title="Hepsi", MİNİKA GO
 http://trkvz-live.ercdn.net/minikago/minikago.m3u8
-#EXTINF: -1 tvg-chno="88" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671943.png" group-title="Hepsi", TRT ÇOCUK
+#EXTINF: -1 tvg-chno="61" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671943.png" group-title="Hepsi", TRT ÇOCUK
 http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="90" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671945.png" group-title="Hepsi", TRT DİYANET ÇOCUK
+#EXTINF: -1 tvg-chno="62" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671945.png" group-title="Hepsi", TRT DİYANET ÇOCUK
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="92" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671947.png" group-title="Hepsi", A NEWS
+#EXTINF: -1 tvg-chno="63" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671947.png" group-title="Hepsi", A NEWS
 http://trkvz-live.ercdn.net/anewshd/anewshd.m3u8
-#EXTINF: -1 tvg-chno="93" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671948.png" group-title="Hepsi", TRT WORLD
+#EXTINF: -1 tvg-chno="64" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671948.png" group-title="Hepsi", TRT WORLD
 http://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="94" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671949.png" group-title="Hepsi", NUMBER1 TV
+#EXTINF: -1 tvg-chno="65" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671949.png" group-title="Hepsi", NUMBER1 TV
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="95" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671950.png" group-title="Hepsi", POWER TV
+#EXTINF: -1 tvg-chno="66" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671950.png" group-title="Hepsi", POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="96" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671951.png" group-title="Hepsi", DREAM TÜRK
+#EXTINF: -1 tvg-chno="67" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671951.png" group-title="Hepsi", DREAM TÜRK
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF: -1 tvg-chno="97" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671952.png" group-title="Hepsi", NUMBER1 TURK
+#EXTINF: -1 tvg-chno="68" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671952.png" group-title="Hepsi", NUMBER1 TURK
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="98" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671953.png" group-title="Hepsi", POWER TURK HD
+#EXTINF: -1 tvg-chno="69" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671953.png" group-title="Hepsi", POWER TURK HD
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="99" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671954.png" group-title="Hepsi", TRT MÜZİK
+#EXTINF: -1 tvg-chno="70" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671954.png" group-title="Hepsi", TRT MÜZİK
 http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="100" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671955.png" group-title="Hepsi", NR1 AŞK
+#EXTINF: -1 tvg-chno="71" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671955.png" group-title="Hepsi", NR1 AŞK
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="101" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671956.png" group-title="Hepsi", NR1 DAMAR
+#EXTINF: -1 tvg-chno="72" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671956.png" group-title="Hepsi", NR1 DAMAR
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="102" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671957.png" group-title="Hepsi", TBM TV
+#EXTINF: -1 tvg-chno="73" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671957.png" group-title="Hepsi", TBM TV
 #
-#EXTINF: -1 tvg-chno="103" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671958.png" group-title="Hepsi", TRT 3
+#EXTINF: -1 tvg-chno="74" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671958.png" group-title="Hepsi", TRT 3
 http://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF: -1 tvg-chno="104" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671959.png" group-title="Hepsi", TRT TÜRK
+#EXTINF: -1 tvg-chno="75" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671959.png" group-title="Hepsi", TRT TÜRK
 http://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="105" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671960.png" group-title="Hepsi", TRT ARABI
+#EXTINF: -1 tvg-chno="76" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671960.png" group-title="Hepsi", TRT ARABI
 http://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="106" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671961.png" group-title="Hepsi", TRT AVAZ
+#EXTINF: -1 tvg-chno="77" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671961.png" group-title="Hepsi", TRT AVAZ
 http://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="107" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671962.png" group-title="Hepsi", TRT KURDİ
+#EXTINF: -1 tvg-chno="78" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671962.png" group-title="Hepsi", TRT KURDİ
 http://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="108" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671963.png" group-title="Hepsi", DİYANET TV
+#EXTINF: -1 tvg-chno="79" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671963.png" group-title="Hepsi", DİYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="109" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671964.png" group-title="Hepsi", SEMERKAND
+#EXTINF: -1 tvg-chno="80" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671964.png" group-title="Hepsi", SEMERKAND
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
-#EXTINF: -1 tvg-chno="110" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671965.png" group-title="Hepsi", MELTEM TV
+#EXTINF: -1 tvg-chno="81" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671965.png" group-title="Hepsi", MELTEM TV
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF: -1 tvg-chno="111" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671966.png" group-title="Hepsi", FM TV
+#EXTINF: -1 tvg-chno="82" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671966.png" group-title="Hepsi", FM TV
 #
-#EXTINF: -1 tvg-chno="112" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671967.png" group-title="Hepsi", TARIM TV
+#EXTINF: -1 tvg-chno="83" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671967.png" group-title="Hepsi", TARIM TV
 http://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
-#EXTINF: -1 tvg-chno="113" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671968.png" group-title="Hepsi", ÇİFTÇİ TV
+#EXTINF: -1 tvg-chno="84" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671968.png" group-title="Hepsi", ÇİFTÇİ TV
 http://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF: -1 tvg-chno="114" tvg-logo="https://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078739609.png" group-title="Hepsi", TRT EBA
+#EXTINF: -1 tvg-chno="85" tvg-logo="https://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078739609.png" group-title="Hepsi", TRT EBA
 http://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="115" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671972.png" group-title="Hepsi", ON6
+#EXTINF: -1 tvg-chno="86" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671972.png" group-title="Hepsi", ON6
 http://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
-#EXTINF: -1 tvg-chno="116" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671973.png" group-title="Hepsi", KADIRGA TV
+#EXTINF: -1 tvg-chno="87" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671973.png" group-title="Hepsi", KADIRGA TV
 #
-#EXTINF: -1 tvg-chno="117" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671974.png" group-title="Hepsi", KON TV
+#EXTINF: -1 tvg-chno="88" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671974.png" group-title="Hepsi", KON TV
 http://kontv.blutv.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-chno="118" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671975.png" group-title="Hepsi", KANAL 23
+#EXTINF: -1 tvg-chno="89" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671975.png" group-title="Hepsi", KANAL 23
 http://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
-#EXTINF: -1 tvg-chno="119" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671976.png" group-title="Hepsi", KANAL V
+#EXTINF: -1 tvg-chno="90" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671976.png" group-title="Hepsi", KANAL V
 http://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
-#EXTINF: -1 tvg-chno="120" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671977.png" group-title="Hepsi", KANAL 26
+#EXTINF: -1 tvg-chno="91" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671977.png" group-title="Hepsi", KANAL 26
 http://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-#EXTINF: -1 tvg-chno="121" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671978.png" group-title="Hepsi", KANAL 33
+#EXTINF: -1 tvg-chno="92" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671978.png" group-title="Hepsi", KANAL 33
 http://edge1.socialsmart.tv/kanal33/bant1/chunks.m3u8
-#EXTINF: -1 tvg-chno="122" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671979.png" group-title="Hepsi", BRT 1
+#EXTINF: -1 tvg-chno="93" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671979.png" group-title="Hepsi", BRT 1
 http://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
-#EXTINF: -1 tvg-chno="123" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671980.png" group-title="Hepsi", BRT 2
+#EXTINF: -1 tvg-chno="94" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671980.png" group-title="Hepsi", BRT 2
 http://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist.m3u8
-#EXTINF: -1 tvg-chno="124" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671981.png" group-title="Hepsi", KIBRIS GENC TV
+#EXTINF: -1 tvg-chno="95" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671981.png" group-title="Hepsi", KIBRIS GENC TV
 http://yayin1.canlitv.day/canlitv/genctv.stream/chunklist_w28116401.m3u8
-#EXTINF: -1 tvg-chno="125" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671982.png" group-title="Hepsi", KIBRIS TV
+#EXTINF: -1 tvg-chno="96" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671982.png" group-title="Hepsi", KIBRIS TV
 http://play.kibristv.com/stream/hls/stream.m3u8
-#EXTINF: -1 tvg-chno="126" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671983.png" group-title="Hepsi", KANAL T
+#EXTINF: -1 tvg-chno="97" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671983.png" group-title="Hepsi", KANAL T
 #
-#EXTINF: -1 tvg-chno="127" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671984.png" group-title="Hepsi", KIBRIS ADA TV
+#EXTINF: -1 tvg-chno="98" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671984.png" group-title="Hepsi", KIBRIS ADA TV
 http://yayin1.canlitv.day/live/kibrisadatv.stream/chunklist_w931587066.m3u8
-#EXTINF: -1 tvg-chno="128" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671985.png" group-title="Hepsi", TV2020
+#EXTINF: -1 tvg-chno="99" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671985.png" group-title="Hepsi", TV2020
 http://yayin1.canlitv.day/canlitv/tv2020.stream/chunklist_w1638266240.m3u8
