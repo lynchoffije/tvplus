@@ -31,33 +31,35 @@ http://dogus-live.daioncdn.net/tlc/tlc.m3u8
 http://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF: -1 tvg-chno="16" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008478886/e86bfc54-f774-45c5-ae9d-531af97840a6.png" group-title="Hepsi", KANAL 7
 http://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF: -1 tvg-chno="17" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671886.png" group-title="Hepsi", BEYAZ TV
+#EXTINF: -1 tvg-chno="17" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20150203/001300/001300000008479064/d1bacc13-eaf7-4860-b652-c7167682bc44.png" group-title="Hepsi", BEYAZ TV
 http://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF: -1 tvg-chno="18" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671887.png" group-title="Hepsi", TV100
+#EXTINF: -1 tvg-chno="18" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190531/001300/XTV100001076/e98a3560-e20a-4cdb-a0ea-09f0215375d3.png" group-title="Hepsi", TV100
 http://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF: -1 tvg-chno="19" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671888.png" group-title="Hepsi", FLASH TV
+#EXTINF: -1 tvg-chno="19" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211203/28/20211203123303956rvw_op_0_L.png" group-title="Hepsi", FLASH TV
 http://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF: -1 tvg-chno="20" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671889.png" group-title="Hepsi", DMAX
+#EXTINF: -1 tvg-chno="20" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180317/001300/001300000008479147/15ff0654-8557-4622-922a-3a26783fa115.png" group-title="Hepsi", DMAX
 http://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF: -1 tvg-chno="21" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671890.png" group-title="Hepsi", BİZİM EV TV
+#EXTINF: -1 tvg-chno="21" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190909/001300/XTV100001138/249a14b1-4cf5-4741-8bea-aa9918d23558.png" group-title="Hepsi", BİZİM EV TV
 #
-#EXTINF: -1 tvg-chno="22" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671891.png" group-title="Hepsi", TV8.5
+#EXTINF: -1 tvg-chno="22" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20170121/001300/XTV100000414/f620ca71-e4b8-4b12-97b0-00816e37a553.png" group-title="Hepsi", TV8.5
 http://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-#EXTINF: -1 tvg-chno="23" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671893.png" group-title="Hepsi", VAV TV
+#EXTINF: -1 tvg-chno="23" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202112/20211201/45/202112012219574366zl_op_0_L.png" group-title="Hepsi", VAV TV
 http://trkvz-live.ercdn.net/vavtv/vavtv.m3u8
-#EXTINF: -1 tvg-chno="24" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671894.png" group-title="Hepsi", TRT 2 HD
+#EXTINF: -1 tvg-chno="24" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190221/001300/XTV100001019/8fa643d7-8eb1-47b2-ae13-98aafd444857.png" group-title="Hepsi", TRT 2 HD
 http://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-chno="25" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671895.png" group-title="Hepsi", TV 4
+#EXTINF: -1 tvg-chno="25" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202202/20220215/84/202202151041436635pu_op_0_L.png" group-title="Hepsi", TV 4
 http://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF: -1 tvg-chno="26" tvg-logo="http://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078756979.png" group-title="Hepsi", TURKHABER
+#EXTINF: -1 tvg-chno="25" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202405/20240520/43/1836378664675eb88428_op_0_L.png" group-title="Hepsi", EKOL TV
+#
+#EXTINF: -1 tvg-chno="26" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/logo/202308/20230823/2/20230823142730973bvz_op_0_L.png" group-title="Hepsi", TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF: -1 tvg-chno="27" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671896.png" group-title="Hepsi", CNN TÜRK
+#EXTINF: -1 tvg-chno="27" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008479090/072e0f56-fa01-447e-b0d0-755a28d0e4ae.png" group-title="Hepsi", CNN TÜRK
 http://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF: -1 tvg-chno="28" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671897.png" group-title="Hepsi", NTV
+#EXTINF: -1 tvg-chno="28" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160628/001300/001300000008479163/9f8f142c-46ed-4b4e-b02a-c24961b2cfaf.png" group-title="Hepsi", NTV
 http://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF: -1 tvg-chno="29" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671898.png" group-title="Hepsi", HABERTÜRK
+#EXTINF: -1 tvg-chno="29" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008479171/8bc49d59-6a89-4c80-8960-05caeeccb5c0.png" group-title="Hepsi", HABERTÜRK
 http://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF: -1 tvg-chno="30" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671899.png" group-title="Hepsi", A HABER
+#EXTINF: -1 tvg-chno="30" tvg-logo="http://gbzottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526514/5fd141a9-2d3e-41c0-ac90-90d8a936839f.png" group-title="Hepsi", A HABER
 http://trkvz-live.daioncdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF: -1 tvg-chno="31" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671900.png" group-title="Hepsi", TRT HABER
 http://tv-trthaber.medya.trt.com.tr/master.m3u8
