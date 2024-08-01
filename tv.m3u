@@ -113,9 +113,9 @@ http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF: -1 tvg-chno="56" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671928.png" group-title="Hepsi", TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF: -1 tvg-chno="57" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671937.png" group-title="Hepsi", CARTOON NETWORK
-http://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+http://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF: -1 tvg-chno="58" tvg-logo="http://m3u-editor.com/storage/channel-logos/7600bc90-c5e2-11ee-a80a-7bcefdc18f37/6206276/1078739578.png" group-title="Hepsi", CARTOONITO
-http://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+http://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="59" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671941.png" group-title="Hepsi", MİNİKA ÇOCUK
 http://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF: -1 tvg-chno="60" tvg-logo="http://m3u-editor.com/storage/channel-logos/8af2bf20-3afa-11ee-ab83-95e730e477b8/5131450/904671942.png" group-title="Hepsi", MİNİKA GO
